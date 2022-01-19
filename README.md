@@ -1,1 +1,1 @@
-This repository will hold the code when we open source the training environment of the paper. 
+This repository will hold the code when we open source the training environment of the paper "Toward Model-Free Dexterous Manipulation with Low-Cost Tactile Sensors: Learning to Control Normal Contact Force"
